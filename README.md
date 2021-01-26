@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# Storefront
+
+## Student
+
+> Tina Myers
+
+### Resources
+
+> Sara Strasner, Stacy Burris
+
+### UML
+
+![UML-Day1]('./assets/UML-36.png')
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
