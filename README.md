@@ -7,10 +7,12 @@
 ### Resources
 
 > Sara Strasner, Stacy Burris
+> Day 2: Sara Russert, Simon, Ricardo, Dina, Nathan
 
 ### UML
 
 ![UML-Day1]('./assets/UML-36.png')
+![UML-Day2]('./assets/UML-37.png')
 
 ## Getting Started with Create React App
 
