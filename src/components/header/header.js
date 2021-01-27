@@ -28,7 +28,6 @@ export default function Header() {
   return (
     <div className={classes.root}>
       <AppBar position="static">
-        <Cart />
         <Toolbar>
           <IconButton edge="start" className={classes.menuButton} color="inherit" aria-label="menu">
             <MenuIcon />
@@ -44,6 +43,7 @@ export default function Header() {
           <Button color="inherit">Login</Button>
         </Toolbar>
       </AppBar>
+      <Cart />
     </div>
   );
 }
